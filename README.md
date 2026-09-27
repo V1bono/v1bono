@@ -1,4 +1,4 @@
 ## боже храни Украину
 
-Знаю Lua, Python, SQL
+Знаю HTML5, CSS, Lua, Python, SQL
  
